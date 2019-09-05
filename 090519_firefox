@@ -1,0 +1,18 @@
+var x = 5;
+undefined
+5*6
+30
+x*6
+30
+Math.sqrt(2);
+1.4142135623730951
+Math.PI
+3.141592653589793
+alert(x)
+undefined
+var nums = [1,2,4,7,19]
+undefined
+nums.length
+5
+nums[2]
+4
